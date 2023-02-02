@@ -45,7 +45,7 @@
     bottom: 90px;
     right: 430px;
     transition-property: padding-bottom, padding-right;
-    transition-duration: 0.8s;
+    transition-duration: 0.5s;
 }
 .green-leaf {
     position: absolute;
